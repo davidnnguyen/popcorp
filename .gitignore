@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+wrapped_sym_hpcs.key
+
+.idea
